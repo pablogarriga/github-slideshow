@@ -3,8 +3,10 @@ layout: slide
 title: "Welcome to our second slide!"
 ---
 ---
-"BLA"
+layout: slide
+title: "BLA"
 ---
 ---
-"BLA BLA"
+layout: slide
+title: "BLA BLA"
 ---
