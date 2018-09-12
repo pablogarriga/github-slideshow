@@ -4,8 +4,7 @@ title: "Welcome to our second slide!"
 ---
 
 ---
-layout: slide
-title: "BLA"
+"BLA"
 ---
 
 Use the left arrow to go back!
